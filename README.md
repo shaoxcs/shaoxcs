@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaoxcs
-- 👀 I’m interested in backend development
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in AI development
+- 💞️ I’m looking to collaboration
 - 📫 How to reach me shao.xue@outlook.com
 
 <!---
